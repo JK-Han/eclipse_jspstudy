@@ -17,7 +17,7 @@
 		out.println("<h1>JSP테스트"+i+"!<br>");	//document.write("<h1>JSP테스트"+i+"!<br>");
 	}
 	out.println("count =>"+count);
-//	출력할 변수명:<%=count%> - 태그 사용불가, 표현식 사용불가
+//	출력할 변수명:<%=count%> - 태그 사용불가, 표현식 사용불가1
 %>
 </body>
 </html>
