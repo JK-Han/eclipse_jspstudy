@@ -12,6 +12,9 @@
 <body>
 출력할 변수명:<%=count%>
 수식계산 : <%=(3+5) %>
+<hr>
+수식계산3 : <%=(3*5) %>
+수식계산4 : <%=(6/2) %>
 <%
 	for(int i=0;i<count;i++){
 		out.println("<h1>JSP테스트"+i+"!<br>");	//document.write("<h1>JSP테스트"+i+"!<br>");
