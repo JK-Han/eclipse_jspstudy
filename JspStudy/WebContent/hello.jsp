@@ -12,7 +12,7 @@
 	String str="테스트";
 	System.out.println("str=> "+str);
 	out.println("<h1>"+"str=> "+str+"</h1>");		//웹에출력
-	// document.write("str => "+str)
+	// document.write("str => "+str) 11
 %>
 <hr>
 str 값의 출력 =<%=str %>
