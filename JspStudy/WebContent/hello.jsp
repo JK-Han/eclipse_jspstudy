@@ -10,7 +10,7 @@
  <% 
  // Scriptlet(스크립트릿) - 자바코드를 사용할 수 있도록 해주는 영역(지역변수)
 	String str="홍길동";
-	//System.out.println("str=> "+str);
+	System.out.println("str=> "+str);
 	out.println("<h1>"+"str=> "+str+"</h1>");		//웹에출력
 	// document.write("str => "+str)
 %>
