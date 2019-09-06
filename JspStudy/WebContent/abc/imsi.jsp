@@ -15,7 +15,8 @@
 <hr>
 수식계산2:<%=(3*5)%>
 수식계산3 : <%=(6/2) %>
-
+<hr> 
+수식계산4:<%=(3-4)%>
 <%
 	for(int i=0;i<count;i++){
 		out.println("<h1>JSP테스트"+i+"!<br>");	//document.write("<h1>JSP테스트"+i+"!<br>");
